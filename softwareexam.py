@@ -14,7 +14,7 @@ class examclass:
 
 
 
-randomnumber1 = examclass(2,40,30)
+randomnumber1 = examclass(5,30,50)
 print(randomnumber1.numgenerator())
 
 
